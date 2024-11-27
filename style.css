@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background: linear-gradient(to bottom right, #007bff, #6c757d);
+    color: white;
+  }
+  
+  header img {
+    border: 3px solid white;
+  }
+  
+  footer {
+    background-color: #0069d9;
+  }
+  header img {
+    width: 150px; /* Atur lebar gambar */
+    height: 150px; /* Atur tinggi gambar */
+    object-fit: cover; /* Memastikan gambar tetap proporsional */
+    border-radius: 50%; /* Membuat gambar menjadi lingkaran */
+    border: 3px solid white; /* Menambahkan border putih */
+  }
+    
